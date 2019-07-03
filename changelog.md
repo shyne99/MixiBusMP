@@ -1,3 +1,6 @@
+## 1.1.2
+- Corrige un problème d'extraction des informations sur un petit nombre de projet KNX
+
 ## 1.1.1
 - Meilleur compatibilité des projets KNX en 2.0
 - Recharge la page automatiquement après une mise à jour réussie
