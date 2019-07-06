@@ -1,3 +1,6 @@
+## 1.1.3
+- Prise en charge en KNX 2.0 des modules avec Widget de configuration 
+
 ## 1.1.2
 - Corrige un problème d'extraction des informations sur un petit nombre de projet KNX
 
